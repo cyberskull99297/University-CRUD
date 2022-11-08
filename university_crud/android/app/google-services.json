@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499772843696",
+    "project_id": "university-crud",
+    "storage_bucket": "university-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499772843696:android:b681ff225b7da5db82fd75",
+        "android_client_info": {
+          "package_name": "com.example.university_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499772843696-k4ub8agpnsbd6lq39qio4rcb8e5vla31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.university_crud",
+            "certificate_hash": "28392fdaa4aedab777ff936f0616b9e7364ef8fb"
+          }
+        },
+        {
+          "client_id": "499772843696-tcluu2fv22hnnut8n5q6fn8pc3it8ucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxOyoOxfhTWrvjy84eUqCrvBh9I5t6ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499772843696-tcluu2fv22hnnut8n5q6fn8pc3it8ucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
